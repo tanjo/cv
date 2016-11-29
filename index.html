@@ -21,14 +21,14 @@
 
     resume.marked = function(text) {
       document.getElementById('content').innerHTML = marked(text);
-    }
+    };
 
     resume.getResume = function(callback) {
       var request = new XMLHttpRequest();
       request.open("get", "https://tanjo.xyz/resume/README.md", true);
       request.onload = callback;
       request.send(null);
-    }
+    };
 
     resume.onload = function() {
       resume.getResume(function() {
@@ -39,7 +39,6 @@
 
     window.onload = function() {
       resume.onload();
-    }
-
+    };
 </script>
 </html>
