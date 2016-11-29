@@ -24,7 +24,7 @@
     }
 
     resume.getResume = function(callback) {
-      var reuqest = new XMLRequest();
+      var reuqest = new XMLHttpRequest();
       request.open("get", "https://tanjo.xyz/resume/README.md", true);
       request.onload = callback;
       request.send(null);
