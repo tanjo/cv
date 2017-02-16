@@ -1,6 +1,8 @@
 # tanjo
 
-[Twitter](https://twitter.com/tanjoin)　[Github](https://github.com/tanjo)
+- HP : [https://tanjo.xyz](https://tanjo.xyz)
+- Twitter : [tanjoin](https://twitter.com/tanjoin)　
+- Github : [tanjo](https://github.com/tanjo)
 
 ## Biography
 
@@ -18,7 +20,7 @@
 
 **2015/11 -**
 
-Supership株式会社 エンジニア
+Supership株式会社 エンジニア 
 
 ## Language
 
