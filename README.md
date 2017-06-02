@@ -1,6 +1,6 @@
 # tanjo
 
-- HP : [https://tanjo.xyz](https://tanjo.xyz)
+- HP : [https://tanjo.xyz](https://tanjo.github.io)
 - Twitter : [tanjoin](https://twitter.com/tanjoin)　
 - Github : [tanjo](https://github.com/tanjo)
 
