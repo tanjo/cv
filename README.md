@@ -44,12 +44,13 @@ Supership株式会社 エンジニア
 - JavaScript
   - Node.js
   - Google Apps Script
-  - Hubot
+  - Hubot / Botkit
   - CoffeeScript
 - CI
   - Travis CI
 - Ruby
   - Rakefile
+  - Rails
 - Bash
 - Git
 
