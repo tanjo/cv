@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
+# tanjo
 
-You can use the [editor on GitHub](https://github.com/tanjo/resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- HP : [https://tanjo.github.io](https://tanjo.github.io)
+- Twitter : [tanjoin](https://twitter.com/tanjoin)　
+- Github : [tanjo](https://github.com/tanjo)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Biography
 
-### Markdown
+**2007/04**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+和歌山大学 システム工学部 情報通信システム学科 入学
 
-```markdown
-Syntax highlighted code block
+**2011/03**
 
-# Header 1
-## Header 2
-### Header 3
+和歌山大学 システム工学部 情報通信システム学科 卒業
 
-- Bulleted
-- List
+**2011/04**
 
-1. Numbered
-2. List
+和歌山大学 大学院 システム工学専攻 コミュニケーション科学クラスタ 修士課程 入学
 
-**Bold** and _Italic_ and `Code` text
+**2013/03**
 
-[Link](url) and ![Image](src)
-```
+和歌山大学 大学院 システム工学専攻 コミュニケーション科学クラスタ 修士課程 修了
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**2013/04 - 2015/10**
 
-### Jekyll Themes
+株式会社ビットセラー エンジニア
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tanjo/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**2015/11 -**
 
-### Support or Contact
+Supership株式会社 エンジニア 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Language
+
+- Japanese
+  - Native
+- English
+  - a little
+- German
+  - Ich lernte Deutsch.
+
+## Skill
+
+- Java
+  - Android
+- Objective-C
+  - iOS
+- Swift
+  - iOS
+- C/C++
+  - OpenCV
+- JavaScript
+  - Node.js
+  - Google Apps Script
+  - Hubot / Botkit
+  - CoffeeScript
+- CI
+  - Travis CI
+- Ruby
+  - Rakefile
+  - Rails
+- Bash
+- Git
+
+## Qualifications
+
+**2007/06**
+
+原動機付自転車免許（原付免許）
+
+**2007/11**
+
+第一種普通自動車免許（普通免許）
+
+**2010/06**
+
+基本情報技術者試験
+
+**2011/03**
+
+高等学校教諭・一種免許状・教科（工業）
+
+## Hobby
+
+- Swimming
+- Payment service
+- Anime / Seiyu
+- Yu-Gi-Oh!
+- Walk and Eat
